@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QuXiaolong0812
-- 👀 I’m interested in NLP & Knowledge graph
-- 🌱 I’m currently learning multimodal knowledge graph recommendaiton systom
+- 👀 I’m interested in NLP & Knowledge graph & multimodal
+- 🌱 I’m currently learning multimodal knowledge graph recommendaiton system
 - 💞️ I have a blog website, please visiting https://qinux.top
 - 📫 How to reach me : quxiaolong@bjfu.edu.cn
 
